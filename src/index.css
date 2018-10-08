@@ -12,3 +12,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.note{
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  position: absolute;
+    background-color: yellowgreen;
+    width: auto;
+    max-width: 203px;
+    padding: 20px;
+    margin: 10px;
+    float:left;
+}
+
+.board{
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: yellow;
+    width: auto;
+    height:1000px;
+    padding: 20px;
+    margin: 10px;
+}
